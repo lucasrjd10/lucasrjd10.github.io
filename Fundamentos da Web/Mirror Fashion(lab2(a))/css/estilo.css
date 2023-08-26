@@ -1,0 +1,19 @@
+.TituloTopo{
+    background-color: #aaa;
+}
+
+.centro-distribuicao{
+    background-color: #ccc;
+    text-align: center;
+}
+
+.familia-pelho{
+    background-color: #ccc;
+    text-align: right;
+}
+
+.titulo-compra{
+    background-color: rgb(189, 175, 226);
+    text-align: center;
+}
+
